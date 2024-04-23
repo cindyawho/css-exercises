@@ -1,0 +1,19 @@
+.pinky{
+    background-color: rgb(241, 112, 134);
+    font-family: Verdana, 'DejaVu Sans', sans-serif;
+}
+
+#blueTitle{
+    color: #0d0ddd;
+    font-size: 36px;
+}
+
+.large{
+    font-size: 24px;
+}
+
+#greenBold{
+    background-color: rgb(140, 241, 140);
+    font-size: 24px; /*Note: instead of putting this line in, I could have just used the large class to style this element*/
+    font-weight: bold;
+}
